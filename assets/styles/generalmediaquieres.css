@@ -549,12 +549,6 @@
     font-size: 13px;
     padding: 8px 12px;
   }
-
-  .cart-notification {
-    bottom: 20px;
-    font-size: 13px;
-    padding: 8px 15px;
-  }
 }
 
 /* Media Queries for Mobile Devices (max-width: 480px) */
@@ -677,12 +671,6 @@
     padding: 6px 10px;
   }
 
-  .cart-notification {
-    bottom: 15px;
-    font-size: 12px;
-    padding: 6px 12px;
-    max-width: 90%;
-  }
 }
 
 
